@@ -1,5 +1,6 @@
 # Microtik-Auto-Login
-Shell Script that runs on router to auto-logn to your ISP run Microtik based Internet Service
+Shell Script that runs on router to auto-login to your ISP run Microtik based Internet Service
+Works by sending a POST request to the Microtik server with the supplied user credentials.
 
 Every time this script is run, it logs in / ensure connected session is extended.
 
